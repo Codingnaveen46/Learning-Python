@@ -208,6 +208,105 @@ print(str(d5))
 print(type(str(d5)))
 
 
+## learning operators
+
+#1 arithmetic operators
+
+# addition = + /operator
+
+a = 10
+b = 20
+c = a + b
+
+print(c)
+
+
+#subtraction
+
+a = 10
+b = 20
+c = a - b
+
+print(c)
+
+
+#multiplication
+
+a = 10
+b = 20
+c = a * b
+
+print(c)
+
+
+# division
+
+a = 10
+b = 20
+c = a / b
+
+print(c)
+
+
+#floor division and modulus
+
+a = 14
+b = 4
+
+c = a // b
+print(c)
+
+c = a % b
+print(c)
+
+c = a /b
+print(c)
+
+
+# exponentiation(power)
+
+
+c = 34 ** 4
+print(c)
+
+
+#  Expressions
+
+# expressions are important
+
+#expression
+# precedence of operators   : operator has the precedence
+
+#Associativity of operators
+# importanance of parenthesis  execution will be done based on the pranthesis ( 2+5 )*(6-3) /2
+
+
+e1 = ((5+3) * (5-3) //2)
+print(e1)
+
+##Taking input from the keyborad
+
+
+length = int(input('Enter a length: '))
+breadth = int(input('Enter a breadth: '))
+
+area = length * breadth
+print('area' , area )
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
