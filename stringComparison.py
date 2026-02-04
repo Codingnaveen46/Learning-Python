@@ -29,3 +29,9 @@ print(s3)
 # created new brach and working on it
 
 
+s6 = 'naveen'
+s7 = 'naveen'
+
+s8 = s7 == s6
+print(s8)
+
