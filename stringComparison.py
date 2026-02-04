@@ -27,3 +27,9 @@ print(s3)
 #non boolean condition
 
 
+s6 = 'naveen'
+s7 = 'naveen'
+
+s8 = s7 == s6
+print(s8)
+
